@@ -1,0 +1,7 @@
+# Derivatives solution step at time 0 performed in 0 iterations with 0 error
+# Key for lines starting with "Step":
+# Step Time TStep NIter ResErr SolErr SolConv Out
+Step 0 0 0 0 0 0 0 1
+Step 1 0.01 0.01 4 4.29623e-14 0 0 0
+Step 2 0.02 0.01 4 5.25032e-14 0 0 0
+Step 3 0.03 0.01 3 4.44138e-14 0 0 0
