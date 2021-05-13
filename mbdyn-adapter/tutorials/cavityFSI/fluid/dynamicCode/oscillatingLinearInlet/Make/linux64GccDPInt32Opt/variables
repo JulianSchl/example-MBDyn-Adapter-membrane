@@ -1,1 +1,0 @@
-LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/liboscillatingLinearInlet_b06b3cd26b12c13c97018c1738b3a225b7a4e089
